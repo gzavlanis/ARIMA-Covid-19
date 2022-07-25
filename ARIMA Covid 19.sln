@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ARIMA Covid 19", "ARIMA Covid 19.pyproj", "{8A83DFBE-289E-4FF7-92AB-F456388769DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A83DFBE-289E-4FF7-92AB-F456388769DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A83DFBE-289E-4FF7-92AB-F456388769DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99B049EE-01E9-4DDF-8C8C-E4965BD303C2}
+	EndGlobalSection
+EndGlobal
